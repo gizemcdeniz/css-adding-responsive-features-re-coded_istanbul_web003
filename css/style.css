@@ -167,11 +167,13 @@ img, video, audio, iframe, table, form {
 .col-1 {
   float: left;
   width: 32%;
+  column-count: 1;
 }
 
 .col-2 {
   float: left;
   width: 66%;
+  column-count: 2;
 }
 
 .col-3 p {
